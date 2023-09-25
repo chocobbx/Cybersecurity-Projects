@@ -1,1 +1,1 @@
-# cybersecurity-projects
+# Cybersecurity-Projects
